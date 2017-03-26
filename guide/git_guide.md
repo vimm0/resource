@@ -1,7 +1,4 @@
-# student_progress_index
-Final year project
-
-# Git command
+# Git guide
 First of  all install git in your computer
  [Install git in window](https://www.atlassian.com/git/tutorials/install-git#windows) and also available for other OS.Please find yourself there :P
 1.  Navigate to directory to where you want to clone your git repo and clone repo from https://github.com/vimm0/student_progress_index.git remember project name , then start typing also $ sign signifies starts command
