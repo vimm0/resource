@@ -95,6 +95,7 @@ Login and logout signals
 	user_login_failed()
 		sender
 		credentials
+		
 ```
 
 ```
