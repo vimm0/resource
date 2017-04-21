@@ -95,5 +95,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
 ```
 ### Guide from experts no deep shit:
 * [Git Guide](http://rogerdudler.github.io/git-guide/)
-* [Git Branch]( http://nvie.com/posts/a-successful-git-branching-model/)
+* [Git Branch workflow]( http://nvie.com/posts/a-successful-git-branching-model/)
 * [args and kwargs](http://stackoverflow.com/questions/3394835/args-and-kwargs)
