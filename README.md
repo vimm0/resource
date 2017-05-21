@@ -5,7 +5,12 @@ Guides on best practices on web technology, learning resources and web app devel
  * [Git Guide](./guide/git_guide.md)
  * [Django Reference Guide](./guide/django_reference_guide.md)
  * [Django project Layout](http://www.b-list.org/weblog/2006/sep/10/django-tips-laying-out-application/)
- 
+ * [Django-skeleton](http://django-skel.readthedocs.io/en/latest/)
+ * [Layout Djanog](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/)
+ * [setup tools](http://lucumr.pocoo.org/2012/6/22/hate-hate-hate-everywhere/)
+ * [setuptools python](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2)
+ * [Webpack](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
+ * [Gulp for Beginner](https://css-tricks.com/gulp-for-beginners/)
 Project List
 ========
 
