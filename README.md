@@ -11,6 +11,13 @@ Guides on best practices on web technology, learning resources and web app devel
  * [setuptools python](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2)
  * [Webpack](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
  * [Gulp for Beginner](https://css-tricks.com/gulp-for-beginners/)
+ * [Mega Project list](https://github.com/karan/Projects)
+ * [Collection of code](https://github.com/michalmalik/fce)
+ * [Awesome Python](https://awesome-python.com/)
+ * [Awesome Django](http://awesome-django.com/)
+ * []()
+ * []()
+
 Project List
 ========
 
