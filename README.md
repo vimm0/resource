@@ -15,8 +15,9 @@ Guides on best practices on web technology, learning resources and web app devel
  * [Collection of code](https://github.com/michalmalik/fce)
  * [Awesome Python](https://awesome-python.com/)
  * [Awesome Django](http://awesome-django.com/)
- * []()
- * []()
+ * [code clean](http://ivory.idyll.org/articles/advanced-swc/)
+ * [cookie cutter](https://drivendata.github.io/cookiecutter-data-science/)
+ * [Edx statistics](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/courseware/1b9b2e193ca94949af4f7fac2cd224ee/c0095b20c9e547d9b421c9e81758b347/)
 
 Project List
 ========
