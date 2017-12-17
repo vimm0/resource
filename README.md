@@ -5,7 +5,20 @@ Guides on best practices on web technology, learning resources and web app devel
  * [Git Guide](./guide/git_guide.md)
  * [Django Reference Guide](./guide/django_reference_guide.md)
  * [Django project Layout](http://www.b-list.org/weblog/2006/sep/10/django-tips-laying-out-application/)
- 
+ * [Django-skeleton](http://django-skel.readthedocs.io/en/latest/)
+ * [Layout Djanog](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/)
+ * [setup tools](http://lucumr.pocoo.org/2012/6/22/hate-hate-hate-everywhere/)
+ * [setuptools python](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2)
+ * [Webpack](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
+ * [Gulp for Beginner](https://css-tricks.com/gulp-for-beginners/)
+ * [Mega Project list](https://github.com/karan/Projects)
+ * [Collection of code](https://github.com/michalmalik/fce)
+ * [Awesome Python](https://awesome-python.com/)
+ * [Awesome Django](http://awesome-django.com/)
+ * [code clean](http://ivory.idyll.org/articles/advanced-swc/)
+ * [cookie cutter](https://drivendata.github.io/cookiecutter-data-science/)
+ * [Edx statistics](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/courseware/1b9b2e193ca94949af4f7fac2cd224ee/c0095b20c9e547d9b421c9e81758b347/)
+
 Project List
 ========
 
