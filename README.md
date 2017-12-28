@@ -18,6 +18,15 @@ Guides on best practices on web technology, learning resources and web app devel
  * [code clean](http://ivory.idyll.org/articles/advanced-swc/)
  * [cookie cutter](https://drivendata.github.io/cookiecutter-data-science/)
  * [Edx statistics](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/courseware/1b9b2e193ca94949af4f7fac2cd224ee/c0095b20c9e547d9b421c9e81758b347/)
+ * [eBook](https://github.com/nguyenducduy/eBook)
+ * [Applied-Predictive-Modeling-with-Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
+ * [CySecBooks](https://github.com/l34n/CySecBooks)
+ * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
+ * [SpringIn28Minutes](https://github.com/in28minutes/SpringIn28Minutes)
+ * [pandas-cookbook](https://github.com/jvns/pandas-cookbook)
+ * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
+ * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+ * [Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 Project List
 ========
