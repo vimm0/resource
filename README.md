@@ -29,11 +29,19 @@ Guides on best practices on web technology, learning resources and web app devel
  #### Machine learning Books
  * [pandas-cookbook](https://github.com/jvns/pandas-cookbook)
  * [Applied-Predictive-Modeling-with-Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
+ * [Awesome Machine Learning]( https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+ * [Awesome Machine Learning Repo]( https://github.com/josephmisiti/awesome-machine-learning)
+ * [Awesome Computer Vision] (https://github.com/jbhuang0604/awesome-computer-vision)
+ * [Machine learning for hackers](https://github.com/josephmisiti/ML_for_Hackers)
+
  #### Programming Books
- 
  * [Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
  * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
  * [eBook](https://github.com/nguyenducduy/eBook)
+ * [Awesome list of nest resource](https://github.com/sindresorhus/awesome)
+
+#### Open Source
+ * [OpenSource Github Guide](https://opensource.guide/)
  
 
 Project List
