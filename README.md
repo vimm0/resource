@@ -22,7 +22,6 @@ Guides on best practices on web technology, learning resources and web app devel
  * [CySecBooks](https://github.com/l34n/CySecBooks)
  * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
  * [SpringIn28Minutes](https://github.com/in28minutes/SpringIn28Minutes)
- 
  * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
  * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
  
@@ -31,7 +30,7 @@ Guides on best practices on web technology, learning resources and web app devel
  * [Applied-Predictive-Modeling-with-Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
  * [Awesome Machine Learning]( https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
  * [Awesome Machine Learning Repo]( https://github.com/josephmisiti/awesome-machine-learning)
- * [Awesome Computer Vision] (https://github.com/jbhuang0604/awesome-computer-vision)
+ * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
  * [Machine learning for hackers](https://github.com/josephmisiti/ML_for_Hackers)
 
  #### Programming Books
