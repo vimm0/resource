@@ -2,11 +2,12 @@
 Guides on best practices on web technology, learning resources and web app development.
 
 ### Guides on
+ #### Basic Books
  * [Git Guide](./guide/git_guide.md)
  * [Django Reference Guide](./guide/django_reference_guide.md)
  * [Django project Layout](http://www.b-list.org/weblog/2006/sep/10/django-tips-laying-out-application/)
  * [Django-skeleton](http://django-skel.readthedocs.io/en/latest/)
- * [Layout Djanog](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/)
+ * [Layout Django](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/)
  * [setup tools](http://lucumr.pocoo.org/2012/6/22/hate-hate-hate-everywhere/)
  * [setuptools python](http://stackoverflow.com/questions/6344076/differences-between-distribute-distutils-setuptools-and-distutils2)
  * [Webpack](https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783)
@@ -18,15 +19,22 @@ Guides on best practices on web technology, learning resources and web app devel
  * [code clean](http://ivory.idyll.org/articles/advanced-swc/)
  * [cookie cutter](https://drivendata.github.io/cookiecutter-data-science/)
  * [Edx statistics](https://courses.edx.org/courses/course-v1:Microsoft+DAT222x+1T2017/courseware/1b9b2e193ca94949af4f7fac2cd224ee/c0095b20c9e547d9b421c9e81758b347/)
- * [eBook](https://github.com/nguyenducduy/eBook)
- * [Applied-Predictive-Modeling-with-Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
  * [CySecBooks](https://github.com/l34n/CySecBooks)
  * [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis)
  * [SpringIn28Minutes](https://github.com/in28minutes/SpringIn28Minutes)
- * [pandas-cookbook](https://github.com/jvns/pandas-cookbook)
+ 
  * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
  * [awesome-pentest](https://github.com/enaqx/awesome-pentest)
+ 
+ #### Machine learning Books
+ * [pandas-cookbook](https://github.com/jvns/pandas-cookbook)
+ * [Applied-Predictive-Modeling-with-Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
+ #### Programming Books
+ 
  * [Free-Security-eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
+ * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
+ * [eBook](https://github.com/nguyenducduy/eBook)
+ 
 
 Project List
 ========
