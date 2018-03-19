@@ -1,22 +1,23 @@
 - [Youtube Video Standard](https://www.tutorialguidacomefare.com/test-video-quality-720p-1080p-1440p-2160p-max-bitrate-which-compresses-youtube/)
-Youtube use 16:9.
-4320p: 7680×4320
-2160p: 3840×2160
-1440p: 2560×1440
-1080p: 1920×1080
-720p: 1280×720
-480p: 854×480
-360p: 640×360
-240p: 426×240
 
-Analysis of video quality youtube
+##### Youtube use 16:9.
+- 4320p: 7680×4320
+- 2160p: 3840×2160
+- 1440p: 2560×1440
+- 1080p: 1920×1080
+- 720p: 1280×720
+- 480p: 854×480
+- 360p: 640×360
+- 240p: 426×240
+
+##### Analysis of video quality youtube
 
 – 720p (1280×720)
 – 1080p (1920×1080) full HD
 – 1440p (2560×1440) 2K
 – 2160p (3840×2160) 4K
 – 4320p (7680×4320) 8K
-WEBM VP9 CODEC
+#### WEBM VP9 CODEC
 
 0- Youtube compresses to 4320p (8K) (7680×4320) with a bit rate  21.2 Mbps
 
@@ -38,7 +39,7 @@ WEBM VP9 CODEC
 
  
 
-MP4 H264 CODEC
+#### MP4 H264 CODEC
  
 
 0- Youtube compresses to 4320p (8K) (7680×4320) with a bit rate  78.4 Mbps
