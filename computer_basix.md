@@ -20,3 +20,35 @@
 - https://en.wikipedia.org/wiki/X86-64
 - https://en.wikipedia.org/wiki/X86
 - https://stackoverflow.com/questions/29467510/how-does-multi-level-page-table-save-memory-space
+
+## Boot sequence
+1. Booting Process
+2. Booting Process, cont
+3. Booting a Computer
+4. BIOS
+5. POST
+6. Plug and play BIOS
+7. Bootstrap Illustrated
+8. First sector of a harddrive
+9. Booting from active partition
+10. Volume Boot Record
+11. Booting the OS from the MBR
+12. Boot Code
+13. Sectors beyond MBR
+14. Booting Windows XP and Server 2003
+15. Booting Windows Vista/7
+16. Operating System Components
+
+### Brief
+ - CPU initializes with system clock tick then CPU look to the system's ROM BIOS
+  - BIOS stores instruction to run the power-on self test (POST), in a predetermined memory address.
+    - POST checks:
+      - BIOS chip 
+      - CMOS RAM
+      - Hardware devices
+    - BIOS typically looks to the CMOS chip to tell it where to find the OS
+    - CMOS looks to in order to locate the OS (Boot Sequence)
+    - BIOS will get Boot record(where to find OS)
+    - OS initializes, the BIOS copies its files into memory
+    - OS basically takes over control of the boot process
+- http://www.c-jump.com/CIS24/Slides/Booting/Booting.html#B01_0140_booting_windows_xp_an
