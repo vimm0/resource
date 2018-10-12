@@ -2,7 +2,7 @@
 - x86 is a family of backward-compatible instruction set architectures based on the Intel 8086 CPU and its Intel 8088 variant.
 - Instruction set architecture (ISA) is an abstract model of a computer.(machine language)
   - instruction set consists of addressing modes, instructions, native data types, registers, memory architecture, interrupt, and exception handling, and external I/O.
-  ![alt text](http://url/to/img.png)
+  ![micro architecture](./img/intel_core_microarchitecture.svg)
 
 ## Architecture
 - 8086
